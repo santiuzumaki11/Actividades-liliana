@@ -1,0 +1,1 @@
+#diseñar un algoritmo que calcule el mayor valor de una lista L de N elementos
